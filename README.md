@@ -1,0 +1,2 @@
+# egtifm
+Daily digest notes
